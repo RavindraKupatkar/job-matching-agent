@@ -24,7 +24,7 @@ An AI-powered recruitment system that automatically matches candidates with job 
 ### Technology Stack
 
 - **Frontend**: Streamlit
-- **AI/ML**: Sentence Transformers, OpenAI API, Groq API
+- **AI/ML**: Sentence Transformers, Pinecone API, Groq API, Llama3 Model
 - **Vector Database**: Pinecone (optional)
 - **Data Processing**: Pandas, NumPy, Scikit-learn
 - **Document Processing**: PyMuPDF, PyPDF2
